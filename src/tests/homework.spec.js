@@ -74,6 +74,7 @@ test.describe("Registration Page is Correctly Displayed", async () => {
   });
 });
 
+//Temporarily force a single worker //
 test.describe("User Registration - Valid and Invalid Credentials", () => {
   let testEmail;
 
